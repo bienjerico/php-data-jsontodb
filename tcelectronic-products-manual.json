@@ -1,0 +1,40 @@
+[
+    {
+        "productName": "24/7-C PowerCore",
+        "productImage": "http://cdn-assets.tcelectronic.com/ImageGen.ashx?image=/media/1145772/247c-powercore-main_350x263.jpg&width=56&height=56&pad=True",
+        "productManuals": [
+            [
+                {
+                    "manualName": "24/7-C PowerCore Manual English",
+                    "manualPdf": "http://cdn-downloads.tcelectronic.com/media/1145822/247c_us.pdf",
+                    "manualLang": "English"
+                },
+                {
+                    "manualName": "24/7-C PowerCore Manual German",
+                    "manualPdf": "http://cdn-downloads.tcelectronic.com/media/1145823/247c_de.pdf",
+                    "manualLang": "German"
+                },
+                {
+                    "manualName": "24/7-C PowerCore Manual French",
+                    "manualPdf": "http://cdn-downloads.tcelectronic.com/media/1145824/247c_fr.pdf",
+                    "manualLang": "French"
+                },
+                {
+                    "manualName": "24/7-C PowerCore Manual Spanish",
+                    "manualPdf": "http://cdn-downloads.tcelectronic.com/media/1145833/247c_sp.pdf",
+                    "manualLang": "Spanish"
+                },
+                {
+                    "manualName": "24/7-C PowerCore Manual Italian",
+                    "manualPdf": "http://cdn-downloads.tcelectronic.com/media/1145825/247c_it.pdf",
+                    "manualLang": "Italian"
+                },
+                {
+                    "manualName": "24/7-C PowerCore Manual Japanese",
+                    "manualPdf": "http://cdn-downloads.tcelectronic.com/media/1145826/247c_jp.pdf",
+                    "manualLang": "Japanese"
+                }
+            ]
+        ]
+    }
+]

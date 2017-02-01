@@ -1,0 +1,121 @@
+[
+    {
+        "specsBrand": "ComboStaccato",
+        "specsData": [
+            {
+                "specsLabel": "Power module rating",
+                "specsLabelValue": "450W (800W inst. Peak @ min. Load)TCE Power rating and Active Power Management",
+                "specsURL": "http://www.tcelectronic.com/combostaccato/",
+                "specsIframe": "http://service.tcgroup.tc/combo450-tech-specs-custom.asp"
+            },
+            {
+                "specsLabel": "Weight:",
+                "specsLabelValue": "26kg / 57,3 lbs",
+                "specsURL": "http://www.tcelectronic.com/combostaccato/",
+                "specsIframe": "http://service.tcgroup.tc/combo450-tech-specs-custom.asp"
+            },
+            {
+                "specsLabel": "Balanced 'DI' output:",
+                "specsLabelValue": "Galvanic isolated transformer-balanced (pre/post pre-amp)",
+                "specsURL": "http://www.tcelectronic.com/combostaccato/",
+                "specsIframe": "http://service.tcgroup.tc/combo450-tech-specs-custom.asp"
+            },
+            {
+                "specsLabel": "Tone controls:",
+                "specsLabelValue": "Low shelf (71Hz - 1.1kHz), Low Mid (100Hz - 1.6kHz), High Mid (200Hz - 3.1kHz), High Shelf (400Hz - 6.3kHz)",
+                "specsURL": "http://www.tcelectronic.com/combostaccato/",
+                "specsIframe": "http://service.tcgroup.tc/combo450-tech-specs-custom.asp"
+            },
+            {
+                "specsLabel": "Headphone output:",
+                "specsLabelValue": "Speaker filter + Rehearsal stereo output",
+                "specsURL": "http://www.tcelectronic.com/combostaccato/",
+                "specsIframe": "http://service.tcgroup.tc/combo450-tech-specs-custom.asp"
+            },
+            {
+                "specsLabel": "Tuner:",
+                "specsLabelValue": "Chromatic",
+                "specsURL": "http://www.tcelectronic.com/combostaccato/",
+                "specsIframe": "http://service.tcgroup.tc/combo450-tech-specs-custom.asp"
+            },
+            {
+                "specsLabel": "Presets:",
+                "specsLabelValue": "3 x user memories",
+                "specsURL": "http://www.tcelectronic.com/combostaccato/",
+                "specsIframe": "http://service.tcgroup.tc/combo450-tech-specs-custom.asp"
+            },
+            {
+                "specsLabel": "Compression:",
+                "specsLabelValue": "SpectraCompTM multi-band compression",
+                "specsURL": "http://www.tcelectronic.com/combostaccato/",
+                "specsIframe": "http://service.tcgroup.tc/combo450-tech-specs-custom.asp"
+            },
+            {
+                "specsLabel": "Drive:",
+                "specsLabelValue": "TubeToneTM full amp simulation",
+                "specsURL": "http://www.tcelectronic.com/combostaccato/",
+                "specsIframe": "http://service.tcgroup.tc/combo450-tech-specs-custom.asp"
+            },
+            {
+                "specsLabel": "Preset level:",
+                "specsLabelValue": "12dB range",
+                "specsURL": "http://www.tcelectronic.com/combostaccato/",
+                "specsIframe": "http://service.tcgroup.tc/combo450-tech-specs-custom.asp"
+            },
+            {
+                "specsLabel": "Recording out:",
+                "specsLabelValue": "AES/EBU 96kHz output (S/PDIF compatible)",
+                "specsURL": "http://www.tcelectronic.com/combostaccato/",
+                "specsIframe": "http://service.tcgroup.tc/combo450-tech-specs-custom.asp"
+            },
+            {
+                "specsLabel": "Rehearsal in:",
+                "specsLabelValue": "Stereo RCA input, (RCA-mini jack cable included)",
+                "specsURL": "http://www.tcelectronic.com/combostaccato/",
+                "specsIframe": "http://service.tcgroup.tc/combo450-tech-specs-custom.asp"
+            },
+            {
+                "specsLabel": "Remote connection:",
+                "specsLabelValue": "7-pin DIN connector incl. power and communication",
+                "specsURL": "http://www.tcelectronic.com/combostaccato/",
+                "specsIframe": "http://service.tcgroup.tc/combo450-tech-specs-custom.asp"
+            },
+            {
+                "specsLabel": "Enclosure:",
+                "specsLabelValue": "18mm plywood side panels, 18mm carved hardwood rounded corners",
+                "specsURL": "http://www.tcelectronic.com/combostaccato/",
+                "specsIframe": "http://service.tcgroup.tc/combo450-tech-specs-custom.asp"
+            },
+            {
+                "specsLabel": "Surface treatment:",
+                "specsLabelValue": "'Anti-skid' dual component surface",
+                "specsURL": "http://www.tcelectronic.com/combostaccato/",
+                "specsIframe": "http://service.tcgroup.tc/combo450-tech-specs-custom.asp"
+            },
+            {
+                "specsLabel": "Porting:",
+                "specsLabelValue": "Rear porting",
+                "specsURL": "http://www.tcelectronic.com/combostaccato/",
+                "specsIframe": "http://service.tcgroup.tc/combo450-tech-specs-custom.asp"
+            },
+            {
+                "specsLabel": "Woofer:",
+                "specsLabelValue": "Eminence custom 10\"",
+                "specsURL": "http://www.tcelectronic.com/combostaccato/",
+                "specsIframe": "http://service.tcgroup.tc/combo450-tech-specs-custom.asp"
+            },
+            {
+                "specsLabel": "Tweeter:",
+                "specsLabelValue": "Eminence 33mm voicecoil, titanium diaphragm",
+                "specsURL": "http://www.tcelectronic.com/combostaccato/",
+                "specsIframe": "http://service.tcgroup.tc/combo450-tech-specs-custom.asp"
+            },
+            {
+                "specsLabel": "Tweeter adjustment:",
+                "specsLabelValue": "L-pad (off - 0dB)",
+                "specsURL": "http://www.tcelectronic.com/combostaccato/",
+                "specsIframe": "http://service.tcgroup.tc/combo450-tech-specs-custom.asp"
+            }
+        ]
+    }
+]

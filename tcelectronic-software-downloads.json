@@ -1,0 +1,55 @@
+[
+    {
+        "softwareProduct": "Air Control",
+        "softwareImage": "http://cdn-assets.tcelectronic.com/ImageGen.ashx?image=/media/3865912/air-control-main-image_350x263.jpg&width=56&height=56&pad=True",
+        "softwareDownloads": [
+            {
+                "softwareGroup": "Software",
+                "softwareList": [
+                    {
+                        "softwareUrl": "http://cdn-downloads.tcelectronic.com/media/4558298/tcelectronicaircontrol105.zip",
+                        "softwareVersion": " 1.0.5 ",
+                        "softwarePlatform": " windows ",
+                        "softwareIsCurrent": " true "
+                    },
+                    {
+                        "softwareUrl": "http://cdn-downloads.tcelectronic.com/media/4558321/tcelectronicaircontrol105.dmg",
+                        "softwareVersion": " 1.0.5 ",
+                        "softwarePlatform": " mac ",
+                        "softwareIsCurrent": " true "
+                    },
+                    {
+                        "softwareUrl": "http://cdn-downloads.tcelectronic.com/media/3900684/tcelectronicaircontrol104.zip",
+                        "softwareVersion": " 1.0.4 ",
+                        "softwarePlatform": " windows ",
+                        "softwareIsCurrent": " false "
+                    },
+                    {
+                        "softwareUrl": "http://cdn-downloads.tcelectronic.com/media/3901535/air_control_104.dmg",
+                        "softwareVersion": " 1.0.4 ",
+                        "softwarePlatform": " mac ",
+                        "softwareIsCurrent": " false "
+                    },
+                    {
+                        "softwareUrl": "http://cdn-downloads.tcelectronic.com/media/3900437/tcelectronicaircontrol103.zip",
+                        "softwareVersion": " 1.0.3 ",
+                        "softwarePlatform": " windows ",
+                        "softwareIsCurrent": " false "
+                    },
+                    {
+                        "softwareUrl": "http://cdn-downloads.tcelectronic.com/media/3866001/tcelectronicaircontrol102.dmg",
+                        "softwareVersion": " 1.0.2 ",
+                        "softwarePlatform": " mac ",
+                        "softwareIsCurrent": " false "
+                    },
+                    {
+                        "softwareUrl": "http://cdn-downloads.tcelectronic.com/media/3866020/tcelectronicaircontrol102.zip",
+                        "softwareVersion": " 1.0.2 ",
+                        "softwarePlatform": " windows ",
+                        "softwareIsCurrent": " false "
+                    }
+                ]
+            }
+        ]
+    }
+]
